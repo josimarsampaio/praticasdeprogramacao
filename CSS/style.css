@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h2{text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
+
+h1{text-transform: uppercase;
+    color: red;
+    text-align: center;
+}
+
+p{
+ text-align: justify;   
+}
+
+.destaque{
+    background-color: brown;
+    color: azure;
+    padding: 20x;
+    margin-bottom: 20px;       
+}
+
+#img-logo{width: 110px;
+} 
+   
+nav li {display: inline;
+     margin-left: 20px;
+     color: red;
+     font-weight: bold;
+     border: solid red;
+     padding: 5px;   
+}   
+
+nav{float: right;
+}
+
+header{background-color: white;
+    color: black;
+}
+
+main{
+    margin:auto 20%;
+}
+
+footer{
+    background-color:white;
+    color: black;
+    }
+
+    .direitos{
+        text-align: center;
+    }
